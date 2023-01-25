@@ -18,7 +18,7 @@ The game is still in pre-alpha and not yet available.
 
 ## Authors
 
-ex. [Naren932](https://github.com)
+ex. [Naren932](https://github.com/naren932)
 
 ## Version History
 
