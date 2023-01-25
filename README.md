@@ -14,11 +14,11 @@ The game is still in pre-alpha and not yet available.
 
 ### Installing
 
-* go [here](github.com/naren932/Stuck-in-a-Cave/releases), choose any release and download the installer.exe
+* go [here](htttps://github.com/naren932/Stuck-in-a-Cave/releases), choose any release and download the installer.exe
 
 ## Authors
 
-ex. [Naren932](https://github.com/naren932)
+[Naren932](https://github.com/naren932)
 
 ## Version History
 
