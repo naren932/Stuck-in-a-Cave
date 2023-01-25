@@ -14,7 +14,7 @@ The game is still in pre-alpha and not yet available.
 
 ### Installing
 
-* go [here](htttps://github.com/naren932/Stuck-in-a-Cave/releases), choose any release and download the installer.exe
+* go [Here](https://github.com/naren932/Stuck-in-a-Cave/releases), choose any release and download the installer.exe
 
 ## Authors
 
@@ -27,4 +27,4 @@ The game is still in pre-alpha and not yet available.
 
 ## License
 
-This project is licensed under the [GNU General License 3.0] License - see the LICENSE.md file for details
+This project is licensed under the [GNU General License 3.0] License - see the [LICENSE.md](https://github.com/naren932/Stuck-in-a-Cave/blob/main/LICENSE) file for details
